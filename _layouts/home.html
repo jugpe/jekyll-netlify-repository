@@ -7,17 +7,5 @@ layout: default
   {% include page-intro.html %}
 
   {{ content }}
+  <img alt="" src="https://raw.githubusercontent.com/jugpe/jugpe.github.io/master/logo.png" style="width: 50%;"/>
 
-  <section>
-
-    <h3>Recent posts from the blog</h3>
-
-    <ul>
-      {% for post in site.posts limit:3 %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-
-  </section>
