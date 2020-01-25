@@ -1,8 +1,7 @@
 # JUG-PE WebPage and Blog
-[JUG-PE](www.jugpe.com.br)
 
-![JUG-PE](https://raw.githubusercontent.com/jugpe/jugpe.github.io/master/logo.png =200x)
-
+<img src="https://raw.githubusercontent.com/jugpe/jugpe.github.io/master/logo.png" alt="JUG-PE" width="200"/>
+www.jugpe.com.br
 
 ## Local Development
 
