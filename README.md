@@ -1,7 +1,7 @@
 # JUG-PE WebPage and Blog
 [JUG-PE](www.jugpe.com.br)
 
-![JUG-PE](![JUG-PE](https://octodex.github.com/images/yaktocat.png)
+![JUG-PE](https://raw.githubusercontent.com/jugpe/jugpe.github.io/master/logo.png)
 
 
 ## Local Development
