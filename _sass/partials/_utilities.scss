@@ -95,3 +95,8 @@ textarea {
 button {
 	@include button($link-color, $text-color-negative);
 }
+.fa{
+	color: white !important;
+	text-decoration: none !important;
+	border-bottom: none !important;
+}
